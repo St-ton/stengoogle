@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/stengoogle/static/css/main.cf5515a3.chunk.css",
-    "main.js": "/stengoogle/static/js/main.e0d57f45.chunk.js",
-    "main.js.map": "/stengoogle/static/js/main.e0d57f45.chunk.js.map",
+    "main.css": "/stengoogle/static/css/main.70856007.chunk.css",
+    "main.js": "/stengoogle/static/js/main.8a727fff.chunk.js",
+    "main.js.map": "/stengoogle/static/js/main.8a727fff.chunk.js.map",
     "runtime-main.js": "/stengoogle/static/js/runtime-main.82aece2e.js",
     "runtime-main.js.map": "/stengoogle/static/js/runtime-main.82aece2e.js.map",
     "static/js/2.cb75c1e6.chunk.js": "/stengoogle/static/js/2.cb75c1e6.chunk.js",
     "static/js/2.cb75c1e6.chunk.js.map": "/stengoogle/static/js/2.cb75c1e6.chunk.js.map",
     "index.html": "/stengoogle/index.html",
-    "static/css/main.cf5515a3.chunk.css.map": "/stengoogle/static/css/main.cf5515a3.chunk.css.map",
+    "static/css/main.70856007.chunk.css.map": "/stengoogle/static/css/main.70856007.chunk.css.map",
     "static/js/2.cb75c1e6.chunk.js.LICENSE.txt": "/stengoogle/static/js/2.cb75c1e6.chunk.js.LICENSE.txt",
     "static/media/logo.2becf4a1.jpg": "/stengoogle/static/media/logo.2becf4a1.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.82aece2e.js",
     "static/js/2.cb75c1e6.chunk.js",
-    "static/css/main.cf5515a3.chunk.css",
-    "static/js/main.e0d57f45.chunk.js"
+    "static/css/main.70856007.chunk.css",
+    "static/js/main.8a727fff.chunk.js"
   ]
 }
