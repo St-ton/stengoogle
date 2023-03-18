@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import Routes from "./components/Routes";
+import Logo from "./components/Logo";
 
 const App = () => {
   const [darkTheme, setDarkTheme] = useState(false);
@@ -10,6 +11,9 @@ const App = () => {
   return (
     <div className={darkTheme ? "dark" : ""}>
       <div className="dark:bg-gray-900 bg-gray-100 dark:text-gray-200 black min-h-screen">
+        <div className="logo-navbar">
+          <Logo />
+        </div>
         <Navbar setDarkTheme={setDarkTheme} darkTheme={darkTheme} />
         <Routes />
         <Footer />

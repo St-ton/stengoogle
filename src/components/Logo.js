@@ -6,7 +6,7 @@ export default function Logo() {
   return (
     <h1 className="text">
       <Link to="/" className="link">
-        STEN <img src={logo} alt="stenpomodoro" className="logo" />
+        STEN <img src={logo} alt="stengoogle" className="logo" />
         GOOGLE
       </Link>
     </h1>

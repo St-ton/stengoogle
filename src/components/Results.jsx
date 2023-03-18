@@ -61,7 +61,8 @@ const Results = () => {
     case "/news":
       return (
         <div className="sm:px-56 flex flex-wrap justify-between items-center space-y-6">
-          {results?.entries?.map(({ id, links, source, title }) => (
+          {/* {results?.entries?.map(({ id, links, source, title }) => ( */}
+          {results?.results?.map(({ id, links, source, title }) => (
             <div key={id} className="md:w-2/5 w-full ">
               <a
                 href={links?.[0].href}
